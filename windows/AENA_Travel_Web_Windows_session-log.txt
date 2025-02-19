@@ -1,0 +1,90 @@
+[2025-02-18T16:54:52.312Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:54:53.688Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:54:55.656Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:54:57.798Z] Navegando en Chrome
+[2025-02-18T16:54:57.799Z] Navegando en Firefox
+[2025-02-18T16:54:57.800Z] Navegando en Edge
+[2025-02-18T16:55:27.809Z] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
+[2025-02-18T16:56:23.460Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:56:24.839Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:56:26.667Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:56:28.862Z] Navegando en Chrome
+[2025-02-18T16:56:28.863Z] Navegando en Firefox
+[2025-02-18T16:56:28.863Z] Navegando en Edge
+[2025-02-18T16:56:58.872Z] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
+[2025-02-18T16:57:52.089Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:57:53.997Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:57:55.613Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T16:57:57.394Z] Navegando en Chrome
+[2025-02-18T16:57:57.395Z] Navegando en Firefox
+[2025-02-18T16:57:57.396Z] Navegando en Edge
+[2025-02-18T16:58:27.404Z] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
+[2025-02-18T17:01:08.361Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:01:09.743Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:01:11.723Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:01:13.461Z] Navegando en Chrome
+[2025-02-18T17:01:13.462Z] Navegando en Firefox
+[2025-02-18T17:01:13.463Z] Navegando en Edge
+[2025-02-18T17:01:43.470Z] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
+[2025-02-18T17:04:14.256Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:04:15.775Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:04:16.890Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:04:19.445Z] Navegando en Chrome
+[2025-02-18T17:04:19.447Z] Navegando en Firefox
+[2025-02-18T17:04:19.448Z] Navegando en Edge
+[2025-02-18T17:05:09.879Z] Error al ejecutar el script: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-18T17:05:15.453Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:05:18.157Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:05:20.694Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:05:22.749Z] Navegando en Chrome
+[2025-02-18T17:05:22.750Z] Navegando en Firefox
+[2025-02-18T17:05:22.752Z] Navegando en Edge
+[2025-02-18T17:06:07.781Z] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
+[2025-02-18T17:06:33.743Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:06:36.276Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:06:38.116Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:06:40.013Z] Navegando en Chrome
+[2025-02-18T17:06:40.014Z] Navegando en Firefox
+[2025-02-18T17:06:40.015Z] Navegando en Edge
+[2025-02-18T17:07:40.020Z] Error al ejecutar el script: page.waitForSelector: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-18T17:08:08.791Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:08:10.205Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:08:12.316Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:08:14.096Z] Navegando en Chrome
+[2025-02-18T17:08:14.098Z] Navegando en Firefox
+[2025-02-18T17:08:14.099Z] Navegando en Edge
+[2025-02-18T17:08:44.104Z] Error al ejecutar el script: page.waitForSelector: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+
+[2025-02-18T17:09:48.231Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:09:49.580Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:09:51.017Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-18T17:09:52.921Z] Navegando en Chrome
+[2025-02-18T17:09:52.922Z] Navegando en Firefox
+[2025-02-18T17:09:52.922Z] Navegando en Edge
+[2025-02-18T17:10:52.934Z] Error al ejecutar el script: page.waitForSelector: Timeout 60000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text') to be visible[22m
+

@@ -1,5 +1,6 @@
 {
   "dependencies": {
-    "playwright": "^1.50.1"
+    "playwright": "^1.50.1",
+    "selenium-webdriver": "^4.28.1"
   }
 }

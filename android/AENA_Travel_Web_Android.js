@@ -4,7 +4,7 @@ const fs = require('fs');
 // Función para agregar registros al archivo log
 const logToFile = (message) => {
   const timestamp = new Date().toISOString();
-  fs.appendFileSync('session-log.txt', `[${timestamp}] ${message}\n`);
+  fs.appendFileSync('AENA_Travel_Web_Android_session-log.txt', `[${timestamp}] ${message}\n`);
 };
 
 // Datos de login como variables separadas
@@ -63,10 +63,10 @@ const password = 'Arbust0@EN@1';
         page.goto(url, { waitUntil: 'domcontentloaded', timeout: 120000 })
       ]);
       if (response.status() === 200) {
-        console.log(`✅ Respuesta 200 OK para la URL: ${url}`);
+        console.log(`Respuesta 200 OK para la URL: ${url}`);
         logToFile(`Respuesta 200 OK para la URL: ${url}`);
       } else {
-        console.log(`❌ Respuesta inesperada: ${response.status()} para la URL: ${url}`);
+        console.log(`Respuesta inesperada: ${response.status()} para la URL: ${url}`);
         logToFile(`Respuesta inesperada: ${response.status()} para la URL: ${url}`);
       }
     };
@@ -82,8 +82,8 @@ const password = 'Arbust0@EN@1';
     // Hacer clic en el botón de sesión
     await chromePage.waitForSelector('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session', { timeout: 30000 });
     await firefoxPage.waitForSelector('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session', { timeout: 30000 });
-    await chromePage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session');
-    await firefoxPage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session');
+    await chromePage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session', { timeout: 30000 });
+    await firefoxPage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session'), { timeout: 30000 };
 
     // Después de hacer clic, logeamos que estamos navegando
     console.log(`Navegando en Chrome`);
@@ -94,9 +94,9 @@ const password = 'Arbust0@EN@1';
     // Llenar los campos de login (correo y contraseña) y enviar el formulario
     await chromePage.fill('#gigya-login-form .gigya-input-text', email);
     await firefoxPage.fill('#gigya-login-form .gigya-input-text', email);
-    console.log('✉️ Correo ingresado en Chrome');
+    console.log('Correo ingresado en Chrome');
     logToFile('Correo ingresado en Chrome');
-    console.log('✉️ Correo ingresado en Firefox');
+    console.log('Correo ingresado en Firefox');
     logToFile('Correo ingresado en Firefox');
 
     await chromePage.fill('#gigya-login-form .gigya-input-password', password);
@@ -120,27 +120,27 @@ const password = 'Arbust0@EN@1';
 
     if (await chromeSubmitButton.isEnabled()) {
       await chromeSubmitButton.click();
-      console.log('✅ Formulario de login enviado en Chrome');
+      console.log('Formulario de login enviado en Chrome');
       logToFile('Formulario de login enviado en Chrome');
     } else {
-      console.log('⚠️ El botón de submit está deshabilitado en Chrome.');
+      console.log('El botón de submit está deshabilitado en Chrome.');
       logToFile('El botón de submit está deshabilitado en Chrome.');
     }
 
     if (await firefoxSubmitButton.isEnabled()) {
       await firefoxSubmitButton.click();
-      console.log('✅ Formulario de login enviado en Firefox');
+      console.log('Formulario de login enviado en Firefox');
       logToFile('Formulario de login enviado en Firefox');
     } else {
-      console.log('⚠️ El botón de submit está deshabilitado en Firefox.');
+      console.log('El botón de submit está deshabilitado en Firefox.');
       logToFile('El botón de submit está deshabilitado en Firefox.');
     }
 
-    await chromePage.waitForLoadState('networkidle', { timeout: 1000 });
-    await firefoxPage.waitForLoadState('networkidle', { timeout: 1000 });
-    console.log('🔄 Navegación completada en Chrome');
+    //await chromePage.waitForLoadState('networkidle', { timeout: 1000 });
+    //await firefoxPage.waitForLoadState('networkidle', { timeout: 1000 });
+    console.log('Navegación completada en Chrome');
     logToFile('Navegación completada en Chrome');
-    console.log('🔄 Navegación completada en Firefox');
+    console.log('Navegación completada en Firefox');
     logToFile('Navegación completada en Firefox');
 
     // Mantener los navegadores abiertos
