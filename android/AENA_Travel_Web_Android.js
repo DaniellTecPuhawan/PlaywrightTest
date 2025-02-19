@@ -144,9 +144,17 @@ const password = 'Arbust0@EN@1';
     logToFile('Navegación completada en Firefox');
 
     // Mantener los navegadores abiertos
-    await new Promise(() => {});
-  } catch (error) {
-    console.error(`Error al ejecutar el script: ${error.message}`);
-    logToFile(`Error al ejecutar el script: ${error.message}`);
+   // await new Promise(() => {});
+  //} catch (error) {
+    //console.error(`Error al ejecutar el script: ${error.message}`);
+    //logToFile(`Error al ejecutar el script: ${error.message}`);
+
+     // Cerrar los navegadores
+     await chromeBrowser.close();
+     await firefoxBrowser.close();
+ } catch (error) {
+     console.error(`Error al ejecutar el script: ${error.message}`);
+     logToFile(`Error al ejecutar el script: ${error.message}`);
+
   }
 })();

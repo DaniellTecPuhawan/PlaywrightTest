@@ -106,9 +106,9 @@ const password = process.env.PASSWORD || 'Arbust0@EN@1';
             await chromePage.fill('#gigya-login-form .gigya-input-password', password,{ timeout: 30000 });
             await firefoxPage.fill('#gigya-login-form .gigya-input-password', password,{ timeout: 30000 });
             console.log('🔑 Contraseña ingresada en Chrome');
-            logToFile('🔑 Contraseña ingresada en Chrome');
+            logToFile('Contraseña ingresada en Chrome');
             console.log('Contraseña ingresada en Firefox');
-            logToFile('Contraseña ingresada en Firefox');
+            logToFile('🔑 Contraseña ingresada en Firefox');
 
             // Hacer clic en el botón de submit
             await chromePage.click('#gigya-login-form .gigya-input-submit');

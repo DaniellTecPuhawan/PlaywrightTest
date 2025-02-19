@@ -69,6 +69,9 @@ const password = 'Arbust0@EN@1';
     await chromePage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session');
     await edgePage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session');
 
+    await chromePage.screenshot({ path: 'screenshot_formulario1.png' });
+    await edgePage.screenshot({ path: 'screenshot_formulario2.png' });
+
     console.log('Navegando en Chrome');
     logToFile('Navegando en Chrome');
     console.log('Navegando en Edge');
