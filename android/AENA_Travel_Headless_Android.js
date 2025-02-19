@@ -89,24 +89,24 @@ const password = process.env.PASSWORD || 'Arbust0@EN@1';
         logToFile('Navegando en Firefox');
 
         try { // Rellenar campos y enviar formulario. ESPERA A QUE LOS CAMPOS ESTÉN DISPONIBLES.
-            await chromePage.waitForSelector('#gigya-login-form .gigya-input-text', { timeout: 30000 });
-            await firefoxPage.waitForSelector('#gigya-login-form .gigya-input-text', { timeout: 30000 });
+            await chromePage.waitForSelector('#gigya-login-form .gigya-input-text', { state: 'visible' });
+            await firefoxPage.waitForSelector('#gigya-login-form .gigya-input-text', { state: 'visible' });
             await chromePage.waitForSelector('#gigya-login-form .gigya-input-password', { timeout: 30000 });
             await firefoxPage.waitForSelector('#gigya-login-form .gigya-input-password', { timeout: 30000 });
             await chromePage.waitForSelector('#gigya-login-form .gigya-input-submit', { timeout: 30000 });
             await firefoxPage.waitForSelector('#gigya-login-form .gigya-input-submit', { timeout: 30000 });
 
-            await chromePage.fill('#gigya-login-form .gigya-input-text', email);
-            await firefoxPage.fill('#gigya-login-form .gigya-input-text', email);
+            await chromePage.fill('#gigya-login-form .gigya-input-text', email,{ timeout: 30000 });
+            await firefoxPage.fill('#gigya-login-form .gigya-input-text', email,{ timeout: 30000 });
             console.log('Correo ingresado en Chrome');
             logToFile('Correo ingresado en Chrome');
             console.log('Correo ingresado en Firefox');
             logToFile('Correo ingresado en Firefox');
 
-            await chromePage.fill('#gigya-login-form .gigya-input-password', password);
-            await firefoxPage.fill('#gigya-login-form .gigya-input-password', password);
-            console.log('Contraseña ingresada en Chrome');
-            logToFile('Contraseña ingresada en Chrome');
+            await chromePage.fill('#gigya-login-form .gigya-input-password', password,{ timeout: 30000 });
+            await firefoxPage.fill('#gigya-login-form .gigya-input-password', password,{ timeout: 30000 });
+            console.log('🔑 Contraseña ingresada en Chrome');
+            logToFile('🔑 Contraseña ingresada en Chrome');
             console.log('Contraseña ingresada en Firefox');
             logToFile('Contraseña ingresada en Firefox');
 
@@ -122,8 +122,12 @@ const password = process.env.PASSWORD || 'Arbust0@EN@1';
             logToFile(`Error al rellenar los campos o enviar el formulario: ${error.message}`);
         }
 
-        await chromePage.waitForLoadState('networkidle', { timeout: 1000 });
-        await firefoxPage.waitForLoadState('networkidle', { timeout: 1000 });
+        //await chromePage.waitForLoadState('networkidle', { timeout: 3000 });
+        //await firefoxPage.waitForLoadState('networkidle', { timeout: 3000 });
+
+        await chromePage.waitForLoadState('domcontentloaded');
+        await firefoxPage.waitForLoadState('domcontentloaded');
+        
         console.log('Navegación completada en Chrome');
         logToFile('Navegación completada en Chrome');
         console.log('Navegación completada en Firefox');

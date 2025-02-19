@@ -110,8 +110,8 @@ const password = 'Arbust0@EN@1';
     await firefoxPage.waitForTimeout(5000);
 
     // Hacer clic en el botón de submit
-    const chromeSubmitButton = await chromePage.locator('#gigya-login-form .gigya-input-submit');
-    const firefoxSubmitButton = await firefoxPage.locator('#gigya-login-form .gigya-input-submit');
+    const chromeSubmitButton = await chromePage.locator('#gigya-login-form .gigya-input-submit', { state: 'visible' });
+    const firefoxSubmitButton = await firefoxPage.locator('#gigya-login-form .gigya-input-submit', { state: 'visible' });
 
     await chromeSubmitButton.waitFor({ state: 'visible', timeout: 10000 });
     await firefoxSubmitButton.waitFor({ state: 'visible', timeout: 10000 });
