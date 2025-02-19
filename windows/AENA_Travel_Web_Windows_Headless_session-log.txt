@@ -1,0 +1,8 @@
+[2025-02-19T09:09:43.147Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-19T09:09:45.553Z] Respuesta 200 OK para la URL: https://aenatravel.aena.es/es/
+[2025-02-19T09:09:47.037Z] Navegando en Chrome
+[2025-02-19T09:09:47.038Z] Navegando en Edge
+[2025-02-19T09:10:19.049Z] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
