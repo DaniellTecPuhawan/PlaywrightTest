@@ -4,7 +4,7 @@ const fs = require('fs');
 // Crea un log donde se registre la automatización
 const logToFile = (message) => {
   const timestamp = new Date().toISOString();
-  fs.appendFileSync('AENA_Travel_Web_Windows_session-log.txt', `[${timestamp}] ${message}\n`);
+  fs.appendFileSync('AENA_VIP_Windows_session-log.txt', `[${timestamp}] ${message}\n`);
 };
 
 // Datos guardados en variables
@@ -55,19 +55,19 @@ const password = 'Arbust0@01';
     };
 
     // Verificar el estado de la respuesta para Chrome y Edge
-    await checkResponseStatus(chromePage, 'https://aenatravel.aena.es/es/');
-    await checkResponseStatus(edgePage, 'https://aenatravel.aena.es/es/');
+    await checkResponseStatus(chromePage, 'https://shoptofly.aena.es/shop/es/');
+    await checkResponseStatus(edgePage, 'https://shoptofly.aena.es/shop/es/');
 
     // Establecer el tamaño del viewport para una pantalla de escritorio (1920x1080)
     await chromePage.setViewportSize({ width: 1920, height: 1080 });
     await edgePage.setViewportSize({ width: 1920, height: 1080 });
 
     // Hacer clic en el botón de sesión
-    await chromePage.waitForSelector('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session', { timeout: 15000 });
-    await edgePage.waitForSelector('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session', { timeout: 15000 });
+    await chromePage.waitForSelector('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a', { timeout: 15000 });
+    await edgePage.waitForSelector('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a', { timeout: 15000 });
 
-    await chromePage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session');
-    await edgePage.click('.col-xs-5 > .nav__right > .nav__links > .nav__button-user > .c-button--session');
+    await chromePage.click('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a');
+    await edgePage.click('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a');
 
     await chromePage.screenshot({ path: 'screenshot_formulario1.png' });
     await edgePage.screenshot({ path: 'screenshot_formulario2.png' });
@@ -77,7 +77,9 @@ const password = 'Arbust0@01';
     console.log('Navegando en Edge');
     logToFile('Navegando en Edge');
 
-    
+   
+
+
 
     // Llenar los campos de login (correo y contraseña) y enviar el formulario
     await chromePage.fill('#gigya-login-form .gigya-input-text', email);
@@ -98,6 +100,7 @@ const password = 'Arbust0@01';
 
     await chromePage.waitForTimeout(5000);
     await edgePage.waitForTimeout(5000);
+
 
     // Hacer clic en el botón de submit
     const chromeSubmitButton = await chromePage.locator('#gigya-login-form .gigya-input-submit');
@@ -126,6 +129,15 @@ const password = 'Arbust0@01';
 
     await chromePage.waitForTimeout(3000);
     await edgePage.waitForTimeout(3000);
+
+
+    await chromePage.check('#gigya-checkbox-113358906645430700');
+    await edgePage.check('#gigya-checkbox-113358906645430700');
+    
+    
+    await chromePage.click('#gigya-profile-form > div:nth-child(3) > div.gigya-composite-control.gigya-composite-control-submit.is-centered.is-aena-green > input');
+
+    await edgePage.click('#gigya-profile-form > div:nth-child(3) > div.gigya-composite-control.gigya-composite-control-submit.is-centered.is-aena-green > input');
 
     console.log('Navegación completada en Chrome');
     logToFile('Navegación completada en Chrome');
