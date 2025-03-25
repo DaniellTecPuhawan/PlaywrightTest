@@ -4,7 +4,7 @@ const fs = require('fs');
 // Crea un log donde se registre la automatización
 const logToFile = (message) => {
   const timestamp = new Date().toISOString();
-  fs.appendFileSync('AENA_VIP_Windows_session-log.txt', `[${timestamp}] ${message}\n`);
+  fs.appendFileSync('../logs/AENA_VIP_Windows_log.txt', `[${timestamp}] ${message}\n`);
 };
 
 // Datos guardados en variables
@@ -55,19 +55,19 @@ const password = 'Arbust0@01';
     };
 
     // Verificar el estado de la respuesta para Chrome y Edge
-    await checkResponseStatus(chromePage, 'https://foodtofly.aena.es/es/');
-    await checkResponseStatus(edgePage, 'https://foodtofly.aena.es/es/');
+    await checkResponseStatus(chromePage, 'https://shoptofly.aena.es/shop/es/');
+    await checkResponseStatus(edgePage, 'https://shoptofly.aena.es/shop/es/');
 
     // Establecer el tamaño del viewport para una pantalla de escritorio (1920x1080)
     await chromePage.setViewportSize({ width: 1920, height: 1080 });
     await edgePage.setViewportSize({ width: 1920, height: 1080 });
 
     // Hacer clic en el botón de sesión
-    await chromePage.waitForSelector('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a', { timeout: 15000 });
-    await edgePage.waitForSelector('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a', { timeout: 15000 });
+    await chromePage.waitForSelector('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a', { timeout: 15000 });
+    await edgePage.waitForSelector('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a', { timeout: 15000 });
 
-    await chromePage.click('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a');
-    await edgePage.click('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a');
+    await chromePage.click('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a');
+    await edgePage.click('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.nav__button-user.nav__button-user--session > a');
 
     await chromePage.screenshot({ path: 'screenshot_formulario1.png' });
     await edgePage.screenshot({ path: 'screenshot_formulario2.png' });
@@ -131,8 +131,9 @@ const password = 'Arbust0@01';
     await edgePage.waitForTimeout(3000);
 
 
-    await chromePage.check('#gigya-checkbox-31606798240953280');
-    await edgePage.check('#gigya-checkbox-31606798240953280');
+    await chromePage.check('#gigya-checkbox-113358906645430700');
+    await edgePage.check('#gigya-checkbox-113358906645430700');
+    
     
     await chromePage.click('#gigya-profile-form > div:nth-child(3) > div.gigya-composite-control.gigya-composite-control-submit.is-centered.is-aena-green > input');
 

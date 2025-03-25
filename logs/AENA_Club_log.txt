@@ -1,0 +1,209 @@
+[2025-03-25T10:02:52.099Z] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[2025-03-25T10:02:53.469Z] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[2025-03-25T10:02:56.102Z] Navegando en Chrome
+[2025-03-25T10:02:56.102Z] Navegando en Edge
+[2025-03-25T10:02:56.798Z] Correo ingresado en Chrome
+[2025-03-25T10:02:56.799Z] Correo ingresado en Edge
+[2025-03-25T10:02:57.093Z] Contraseña ingresada en Chrome
+[2025-03-25T10:02:57.094Z] Contraseña ingresada en Edge
+[2025-03-25T10:02:57.641Z] Formulario de login enviado en Chrome
+[2025-03-25T10:02:57.826Z] Formulario de login enviado en Edge
+[2025-03-25T10:03:07.200Z] Se accede al menú del usuario
+[2025-03-25T10:03:07.201Z] Se accede al menú del usuario
+[2025-03-25T10:03:07.877Z] Login Válido
+[2025-03-25T10:03:08.059Z] Login Válido
+[2025-03-25T10:03:08.060Z] Navegación completada en Chrome
+[2025-03-25T10:03:08.060Z] Navegación completada en Edge
+[25/03/2025 - 11:06] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:06] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:06] Navegando en Chrome
+[25/03/2025 - 11:06] Navegando en Edge
+[25/03/2025 - 11:06] Correo ingresado en Chrome
+[25/03/2025 - 11:06] Correo ingresado en Edge
+[25/03/2025 - 11:06] Contraseña ingresada en Chrome
+[25/03/2025 - 11:06] Contraseña ingresada en Edge
+[25/03/2025 - 11:06] Formulario de login enviado en Chrome
+[25/03/2025 - 11:06] Formulario de login enviado en Edge
+[25/03/2025 - 11:06] Se accede al menú del usuario
+[25/03/2025 - 11:06] Se accede al menú del usuario
+[25/03/2025 - 11:06] Login Válido
+[25/03/2025 - 11:06] Login Válido
+[25/03/2025 - 11:06] Login completada en Chrome
+[25/03/2025 - 11:06] Login completada en Edge
+[25/03/2025 - 11:09] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:09] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:09] Navegando en Chrome
+[25/03/2025 - 11:09] Navegando en Edge
+[25/03/2025 - 11:09] Correo ingresado en Chrome
+[25/03/2025 - 11:09] Correo ingresado en Edge
+[25/03/2025 - 11:09] Contraseña ingresada en Chrome
+[25/03/2025 - 11:09] Contraseña ingresada en Edge
+[25/03/2025 - 11:09] Formulario de login enviado en Chrome
+[25/03/2025 - 11:09] Formulario de login enviado en Edge
+[25/03/2025 - 11:09] Se accede al menú del usuario
+[25/03/2025 - 11:09] Se accede al menú del usuario
+[25/03/2025 - 11:09] Login Válido
+[25/03/2025 - 11:09] Login Válido
+[25/03/2025 - 11:09] Login completada en Chrome
+[25/03/2025 - 11:09] Login completada en Edge
+[25/03/2025 - 11:12] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:12] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:12] Navegando en Chrome
+[25/03/2025 - 11:12] Navegando en Edge
+[25/03/2025 - 11:12] Correo ingresado en Chrome
+[25/03/2025 - 11:12] Correo ingresado en Edge
+[25/03/2025 - 11:12] Contraseña ingresada en Chrome
+[25/03/2025 - 11:12] Contraseña ingresada en Edge
+[25/03/2025 - 11:12] Formulario de login enviado en Chrome
+[25/03/2025 - 11:12] Formulario de login enviado en Edge
+[25/03/2025 - 11:12] Se accede al menú del usuario
+[25/03/2025 - 11:12] Se accede al menú del usuario
+[25/03/2025 - 11:12] Login Válido
+[25/03/2025 - 11:12] Login Válido
+[25/03/2025 - 11:12] Login completada en Chrome
+[25/03/2025 - 11:12] Login completada en Edge
+[25/03/2025 - 11:15] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:15] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:15] Navegando en Chrome
+[25/03/2025 - 11:15] Navegando en Edge
+[25/03/2025 - 11:15] Correo ingresado en Chrome
+[25/03/2025 - 11:15] Correo ingresado en Edge
+[25/03/2025 - 11:15] Contraseña ingresada en Chrome
+[25/03/2025 - 11:15] Contraseña ingresada en Edge
+[25/03/2025 - 11:15] Formulario de login enviado en Chrome
+[25/03/2025 - 11:15] Formulario de login enviado en Edge
+[25/03/2025 - 11:16] Se accede al menú del usuario
+[25/03/2025 - 11:16] Se accede al menú del usuario
+[25/03/2025 - 11:16] Login Válido
+[25/03/2025 - 11:16] Login Válido
+[25/03/2025 - 11:16] Login completada en Chrome
+[25/03/2025 - 11:16] Login completada en Edge
+[25/03/2025 - 11:18] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:18] Respuesta 200 OK para la URL: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:18] Navegando en Chrome
+[25/03/2025 - 11:18] Navegando en Edge
+[25/03/2025 - 11:18] Correo ingresado en Chrome
+[25/03/2025 - 11:18] Correo ingresado en Edge
+[25/03/2025 - 11:18] Contraseña ingresada en Chrome
+[25/03/2025 - 11:18] Contraseña ingresada en Edge
+[25/03/2025 - 11:18] Formulario de login enviado en Chrome
+[25/03/2025 - 11:18] Formulario de login enviado en Edge
+[25/03/2025 - 11:18] Se accede al menú del usuario
+[25/03/2025 - 11:18] Se accede al menú del usuario
+[25/03/2025 - 11:18] Login Válido
+[25/03/2025 - 11:18] Login Válido
+[25/03/2025 - 11:18] Login completada en Chrome
+[25/03/2025 - 11:18] Login completada en Edge
+[25/03/2025 - 11:25] Error al ejecutar el script: checkResponseStatus is not defined
+[25/03/2025 - 11:29] Error al ejecutar el script: checkResponseStatus is not defined
+[25/03/2025 - 11:32] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:32] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:32] Error al ejecutar el script: createTimestampFolder is not defined
+[25/03/2025 - 11:33] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:33] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:33] Navegando en Chrome
+[25/03/2025 - 11:33] Navegando en Edge
+[25/03/2025 - 11:33] Correo ingresado en Chrome
+[25/03/2025 - 11:33] Correo ingresado en Edge
+[25/03/2025 - 11:33] Contraseña ingresada en Chrome
+[25/03/2025 - 11:33] Contraseña ingresada en Edge
+[25/03/2025 - 11:33] Formulario de login enviado en Chrome
+[25/03/2025 - 11:33] Formulario de login enviado en Edge
+[25/03/2025 - 11:33] Se accede al menú del usuario
+[25/03/2025 - 11:33] Login Válido
+[25/03/2025 - 11:33] Login Válido
+[25/03/2025 - 11:33] Login completada en Chrome
+[25/03/2025 - 11:33] Login completada en Edge
+[25/03/2025 - 11:34] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:34] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:34] Navegando en Chrome
+[25/03/2025 - 11:34] Navegando en Edge
+[25/03/2025 - 11:34] Correo ingresado en Chrome
+[25/03/2025 - 11:34] Correo ingresado en Edge
+[25/03/2025 - 11:34] Contraseña ingresada en Chrome
+[25/03/2025 - 11:34] Contraseña ingresada en Edge
+[25/03/2025 - 11:34] Formulario de login enviado en Chrome
+[25/03/2025 - 11:34] Formulario de login enviado en Edge
+[25/03/2025 - 11:34] Se accede al menú del usuario
+[25/03/2025 - 11:34] Login Válido
+[25/03/2025 - 11:34] Login Válido
+[25/03/2025 - 11:34] Login completada en Chrome
+[25/03/2025 - 11:34] Login completada en Edge
+[25/03/2025 - 11:35] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:35] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:35] Navegando en Chrome
+[25/03/2025 - 11:35] Navegando en Edge
+[25/03/2025 - 11:35] Correo ingresado en Chrome
+[25/03/2025 - 11:35] Correo ingresado en Edge
+[25/03/2025 - 11:35] Contraseña ingresada en Chrome
+[25/03/2025 - 11:35] Contraseña ingresada en Edge
+[25/03/2025 - 11:35] Formulario de login enviado en Chrome
+[25/03/2025 - 11:35] Formulario de login enviado en Edge
+[25/03/2025 - 11:35] Se accede al menú del usuario
+[25/03/2025 - 11:35] Login Válido
+[25/03/2025 - 11:35] Login Válido
+[25/03/2025 - 11:35] Login completada en Chrome
+[25/03/2025 - 11:35] Login completada en Edge
+[25/03/2025 - 11:48] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:48] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:48] Navegando en Chrome
+[25/03/2025 - 11:48] Navegando en Edge
+[25/03/2025 - 11:48] Correo ingresado en Chrome
+[25/03/2025 - 11:48] Correo ingresado en Edge
+[25/03/2025 - 11:48] Contraseña ingresada en Chrome
+[25/03/2025 - 11:48] Contraseña ingresada en Edge
+[25/03/2025 - 11:48] Formulario de login enviado en Chrome
+[25/03/2025 - 11:48] Formulario de login enviado en Edge
+[25/03/2025 - 11:48] Se accede al menú del usuario
+[25/03/2025 - 11:48] Login Válido
+[25/03/2025 - 11:48] Login Válido
+[25/03/2025 - 11:48] Login completada en Chrome
+[25/03/2025 - 11:48] Login completada en Edge
+[25/03/2025 - 11:49] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:49] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:49] Error al ejecutar el script: folderPath is not defined
+[25/03/2025 - 11:52] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:52] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 11:52] Navegando en Chrome
+[25/03/2025 - 11:52] Navegando en Edge
+[25/03/2025 - 11:52] Correo ingresado en Chrome
+[25/03/2025 - 11:52] Correo ingresado en Edge
+[25/03/2025 - 11:52] Contraseña ingresada en Chrome
+[25/03/2025 - 11:52] Contraseña ingresada en Edge
+[25/03/2025 - 11:52] Formulario de login enviado en Chrome
+[25/03/2025 - 11:52] Formulario de login enviado en Edge
+[25/03/2025 - 11:52] Se accede al menú del usuario
+[25/03/2025 - 11:52] Login Válido
+[25/03/2025 - 11:52] Login Válido
+[25/03/2025 - 11:52] Login completada en Chrome
+[25/03/2025 - 11:52] Login completada en Edge
+[25/03/2025 - 13:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 13:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 13:16] Navegando en Chrome
+[25/03/2025 - 13:16] Navegando en Edge
+[25/03/2025 - 13:16] Correo ingresado en Chrome
+[25/03/2025 - 13:16] Correo ingresado en Edge
+[25/03/2025 - 13:16] Contraseña ingresada en Chrome
+[25/03/2025 - 13:16] Contraseña ingresada en Edge
+[25/03/2025 - 13:16] Formulario de login enviado en Chrome
+[25/03/2025 - 13:16] Formulario de login enviado en Edge
+[25/03/2025 - 13:16] Se accede al menú del usuario
+[25/03/2025 - 13:16] Login Válido
+[25/03/2025 - 13:16] Login Válido
+[25/03/2025 - 13:16] Login completada en Chrome
+[25/03/2025 - 13:16] Login completada en Edge
+[25/03/2025 - 13:20] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 13:20] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 13:20] Navegando en Chrome
+[25/03/2025 - 13:20] Navegando en Edge
+[25/03/2025 - 13:20] Correo ingresado en Chrome
+[25/03/2025 - 13:20] Correo ingresado en Edge
+[25/03/2025 - 13:20] Contraseña ingresada en Chrome
+[25/03/2025 - 13:20] Contraseña ingresada en Edge
+[25/03/2025 - 13:20] Formulario de login enviado en Chrome
+[25/03/2025 - 13:20] Formulario de login enviado en Edge
+[25/03/2025 - 13:20] Se accede al menú del usuario
+[25/03/2025 - 13:21] Login Válido
+[25/03/2025 - 13:21] Login Válido
+[25/03/2025 - 13:21] Login completada en Chrome
+[25/03/2025 - 13:21] Login completada en Edge

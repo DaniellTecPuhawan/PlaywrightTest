@@ -4,7 +4,7 @@ const fs = require('fs');
 // Crea un log donde se registre la automatización
 const logToFile = (message) => {
   const timestamp = new Date().toISOString();
-  fs.appendFileSync('AENA_VIP_Windows_session-log.txt', `[${timestamp}] ${message}\n`);
+  fs.appendFileSync('../logs/AENA_Travel_log.txt', `[${timestamp}] ${message}\n`);
 };
 
 // Datos guardados en variables
@@ -55,29 +55,33 @@ const password = 'Arbust0@01';
     };
 
     // Verificar el estado de la respuesta para Chrome y Edge
-    await checkResponseStatus(chromePage, 'https://serviciosvip.aena.es/vip/es');
-    await checkResponseStatus(edgePage, 'https://serviciosvip.aena.es/vip/es');
+    await checkResponseStatus(chromePage, 'https://aenatravel.aena.es/es/');
+    await checkResponseStatus(edgePage, 'https://aenatravel.aena.es/es/');
 
     // Establecer el tamaño del viewport para una pantalla de escritorio (1920x1080)
     await chromePage.setViewportSize({ width: 1920, height: 1080 });
     await edgePage.setViewportSize({ width: 1920, height: 1080 });
 
     // Hacer clic en el botón de sesión
-    await chromePage.waitForSelector('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.header__top__nav__links__item.header__top__nav__links__item--user.header__top__nav__links__item--session > a', { timeout: 15000 });
-    await edgePage.waitForSelector('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.header__top__nav__links__item.header__top__nav__links__item--user.header__top__nav__links__item--session > a', { timeout: 15000 });
+    await chromePage.waitForSelector('body > main > header > div.container > nav > div > div > div.col-xs-5.col-md-7 > div > ul > li:nth-child(2) > a', { timeout: 15000 });
+    await edgePage.waitForSelector('body > main > header > div.container > nav > div > div > div.col-xs-5.col-md-7 > div > ul > li:nth-child(2) > a', { timeout: 15000 });
 
-    await chromePage.click('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.header__top__nav__links__item.header__top__nav__links__item--user.header__top__nav__links__item--session > a');
-    await edgePage.click('body > main > header > div.navigation.navigation--top > div > div > div.col-xs-8.col-sm-8.col-md-8 > div > ul > li.header__top__nav__links__item.header__top__nav__links__item--user.header__top__nav__links__item--session > a');
+    await chromePage.click('body > main > header > div.container > nav > div > div > div.col-xs-5.col-md-7 > div > ul > li:nth-child(2) > a');
+    await edgePage.click('body > main > header > div.container > nav > div > div > div.col-xs-5.col-md-7 > div > ul > li:nth-child(2) > a');
 
-    await chromePage.screenshot({ path: 'screenshot_formulario1.png' });
-    await edgePage.screenshot({ path: 'screenshot_formulario2.png' });
+    await chromePage.waitForTimeout(5000);
+    await edgePage.waitForTimeout(5000);
+
+    await chromePage.screenshot({ path: '../screenshots/screenshot_formulario_chrome.png' });
+    await edgePage.screenshot({ path: '../screenshots/screenshot_formulario_edge.png' });
 
     console.log('Navegando en Chrome');
     logToFile('Navegando en Chrome');
     console.log('Navegando en Edge');
     logToFile('Navegando en Edge');
-
-    
+   
+    await chromePage.waitForTimeout(5000);
+    await edgePage.waitForTimeout(5000);
 
     // Llenar los campos de login (correo y contraseña) y enviar el formulario
     await chromePage.fill('#gigya-login-form .gigya-input-text', email);
@@ -87,6 +91,9 @@ const password = 'Arbust0@01';
     logToFile('Correo ingresado en Chrome');
     console.log('Correo ingresado en Edge');
     logToFile('Correo ingresado en Edge');
+
+    await chromePage.waitForTimeout(5000);
+    await edgePage.waitForTimeout(5000);
 
     await chromePage.fill('#gigya-login-form .gigya-input-password', password);
     await edgePage.fill('#gigya-login-form .gigya-input-password', password);
@@ -98,6 +105,10 @@ const password = 'Arbust0@01';
 
     await chromePage.waitForTimeout(5000);
     await edgePage.waitForTimeout(5000);
+
+    await chromePage.screenshot({ path: '../screenshots/screenshot_formulario_rellenado_chrome.png' });
+    await edgePage.screenshot({ path: '../screenshots/screenshot_formulario_rellenado_edge.png' });
+    
 
     // Hacer clic en el botón de submit
     const chromeSubmitButton = await chromePage.locator('#gigya-login-form .gigya-input-submit');
@@ -126,6 +137,14 @@ const password = 'Arbust0@01';
 
     await chromePage.waitForTimeout(3000);
     await edgePage.waitForTimeout(3000);
+
+
+    await chromePage.check('#gigya-checkbox-31606798240953280');
+    await edgePage.check('#gigya-checkbox-31606798240953280');
+    
+    await chromePage.click('#gigya-profile-form > div:nth-child(3) > div.gigya-composite-control.gigya-composite-control-submit.is-centered.is-aena-green > input');
+
+    await edgePage.click('#gigya-profile-form > div:nth-child(3) > div.gigya-composite-control.gigya-composite-control-submit.is-centered.is-aena-green > input');
 
     console.log('Navegación completada en Chrome');
     logToFile('Navegación completada en Chrome');
