@@ -198,9 +198,9 @@ const checkResponseStatus = async (page, url) => {
     }
 
     console.log('Login completada en Chrome');
-    logToFile('Login completada en Chrome');
+    logToFile('Login completada en Chrome\t\t\t');
     console.log('Login completada en Edge');
-    logToFile('Login completada en Edge');
+    logToFile('Login completada en Edge\t\t\t');
 
     // Cerrar los navegadores al finalizar el test
     await chromeBrowser.close();

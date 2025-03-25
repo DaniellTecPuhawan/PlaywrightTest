@@ -92,11 +92,11 @@ const checkResponseStatus = async (page, url) => {
     await edgePage.setViewportSize({ width: 1920, height: 1080 });
 
     // Hacer clic en el botón de sesión
-    await chromePage.waitForSelector('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a', { timeout: 15000 });
-    await edgePage.waitForSelector('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a', { timeout: 15000 });
+    await chromePage.waitForSelector('#topNavigation > div.header-links > div > ul > li:nth-child(3)', { timeout: 15000 });
+    await edgePage.waitForSelector('#topNavigation > div.header-links > div > ul > li:nth-child(3)', { timeout: 15000 });
 
-    await chromePage.click('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a');
-    await edgePage.click('#topNavigation > div.header-links > div > ul > li:nth-child(3) > a');
+    await chromePage.click('#topNavigation > div.header-links > div > ul > li:nth-child(3)');
+    await edgePage.click('#topNavigation > div.header-links > div > ul > li:nth-child(3)');
 
     
 
@@ -198,9 +198,9 @@ const checkResponseStatus = async (page, url) => {
     }
 
     console.log('Login completada en Chrome');
-    logToFile('Login completada en Chrome');
+    logToFile('Login completada en Chrome\t\t\t');
     console.log('Login completada en Edge');
-    logToFile('Login completada en Edge');
+    logToFile('Login completada en Edge\t\t\t');
 
     // Cerrar los navegadores al finalizar el test
     await chromeBrowser.close();
