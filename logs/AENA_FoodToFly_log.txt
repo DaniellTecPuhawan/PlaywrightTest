@@ -1,0 +1,57 @@
+[25/03/2025 - 13:39] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:39] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:39] Navegando en Chrome
+[25/03/2025 - 13:39] Navegando en Edge
+[25/03/2025 - 13:39] Correo ingresado en Chrome
+[25/03/2025 - 13:39] Correo ingresado en Edge
+[25/03/2025 - 13:39] Contraseña ingresada en Chrome
+[25/03/2025 - 13:39] Contraseña ingresada en Edge
+[25/03/2025 - 13:39] Formulario de login enviado en Chrome
+[25/03/2025 - 13:39] Formulario de login enviado en Edge
+[25/03/2025 - 13:40] Se accede al menú del usuario
+[25/03/2025 - 13:40] Login Válido
+[25/03/2025 - 13:40] Login Válido
+[25/03/2025 - 13:40] Login completada en Chrome
+[25/03/2025 - 13:40] Login completada en Edge
+[25/03/2025 - 13:41] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:41] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:41] Navegando en Chrome
+[25/03/2025 - 13:41] Navegando en Edge
+[25/03/2025 - 13:41] Correo ingresado en Chrome
+[25/03/2025 - 13:41] Correo ingresado en Edge
+[25/03/2025 - 13:41] Contraseña ingresada en Chrome
+[25/03/2025 - 13:41] Contraseña ingresada en Edge
+[25/03/2025 - 13:41] Formulario de login enviado en Chrome
+[25/03/2025 - 13:41] Formulario de login enviado en Edge
+[25/03/2025 - 13:41] Se accede al menú del usuario
+[25/03/2025 - 13:41] Login Válido
+[25/03/2025 - 13:41] Login Válido
+[25/03/2025 - 13:41] Login completada en Chrome
+[25/03/2025 - 13:41] Login completada en Edge
+[25/03/2025 - 13:44] Error al ejecutar el script: page.goto: Target page, context or browser has been closed
+Call log:
+[2m  - navigating to "https://foodtofly.aena.es/es/", waiting until "load"[22m
+
+[25/03/2025 - 13:45] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:45] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:45] Navegando en Chrome
+[25/03/2025 - 13:45] Navegando en Edge
+[25/03/2025 - 13:46] Error al ejecutar el script: page.fill: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('#gigya-login-form .gigya-input-text')[22m
+
+[25/03/2025 - 13:58] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:59] Página cargada con éxito: https://foodtofly.aena.es/es/
+[25/03/2025 - 13:59] Navegando en Chrome
+[25/03/2025 - 13:59] Navegando en Edge
+[25/03/2025 - 13:59] Correo ingresado en Chrome
+[25/03/2025 - 13:59] Correo ingresado en Edge
+[25/03/2025 - 13:59] Contraseña ingresada en Chrome
+[25/03/2025 - 13:59] Contraseña ingresada en Edge
+[25/03/2025 - 13:59] Formulario de login enviado en Chrome
+[25/03/2025 - 13:59] Formulario de login enviado en Edge
+[25/03/2025 - 13:59] Se accede al menú del usuario
+[25/03/2025 - 13:59] Login Válido
+[25/03/2025 - 13:59] Login Válido
+[25/03/2025 - 13:59] Login completada en Chrome			
+[25/03/2025 - 13:59] Login completada en Edge			

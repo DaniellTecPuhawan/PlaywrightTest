@@ -207,3 +207,496 @@
 [25/03/2025 - 13:21] Login Válido
 [25/03/2025 - 13:21] Login completada en Chrome
 [25/03/2025 - 13:21] Login completada en Edge
+[25/03/2025 - 17:01] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:01] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:01] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:01] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:01] Navegando en Chrome
+[25/03/2025 - 17:01] Navegando en Edge
+[25/03/2025 - 17:01] Correo ingresado en Chrome
+[25/03/2025 - 17:01] Correo ingresado en Edge
+[25/03/2025 - 17:01] Navegando en Chrome
+[25/03/2025 - 17:01] Navegando en Edge
+[25/03/2025 - 17:01] Contraseña ingresada en Chrome
+[25/03/2025 - 17:01] Contraseña ingresada en Edge
+[25/03/2025 - 17:01] Correo ingresado en Chrome
+[25/03/2025 - 17:01] Correo ingresado en Edge
+[25/03/2025 - 17:01] Contraseña ingresada en Chrome
+[25/03/2025 - 17:01] Contraseña ingresada en Edge
+[25/03/2025 - 17:01] Formulario de login enviado en Chrome
+[25/03/2025 - 17:01] Formulario de login enviado en Edge
+[25/03/2025 - 17:01] Formulario de login enviado en Chrome
+[25/03/2025 - 17:01] Formulario de login enviado en Edge
+[25/03/2025 - 17:02] Se accede al menú del usuario
+[25/03/2025 - 17:02] Login Válido
+[25/03/2025 - 17:02] Login Válido
+[25/03/2025 - 17:02] Login completada en Chrome			
+[25/03/2025 - 17:02] Login completada en Edge			
+[25/03/2025 - 17:02] Error al ejecutar el script: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[2025-03-25 16:05:07] Login exitoso para daniell.tec@entelgy.com
+[2025-03-25 16:05:20] Error con usuario@prueba.com: page.click: Target page, context or browser has been closed
+[2025-03-25T16:07:32.221Z] Login exitoso para daniell.tec@entelgy.com
+[2025-03-25T16:08:15.738Z] Error en el login de usuario@prueba.com: page.click: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('div.header__top__nav__links__item:nth-child(2) > a')[22m
+
+[25/03/2025 - 17:10] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:10] Formulario de login enviado en chrome
+[25/03/2025 - 17:10] Login Válido en chrome
+[25/03/2025 - 17:10] Logout completado en chrome
+[25/03/2025 - 17:10] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:10] Formulario de login enviado en edge
+[25/03/2025 - 17:10] Login Válido en edge
+[25/03/2025 - 17:10] Logout completado en edge
+[25/03/2025 - 17:10] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:10] Formulario de login enviado en chrome
+[25/03/2025 - 17:11] Error al ejecutar el script: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 17:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:17] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:17] Navegando en Chrome
+[25/03/2025 - 17:17] Navegando en Edge
+[25/03/2025 - 17:17] Correo ingresado en Chrome
+[25/03/2025 - 17:17] Correo ingresado en Edge
+[25/03/2025 - 17:17] Contraseña ingresada en Chrome
+[25/03/2025 - 17:17] Contraseña ingresada en Edge
+[25/03/2025 - 17:17] Formulario de login enviado en Chrome
+[25/03/2025 - 17:17] Formulario de login enviado en Edge
+[25/03/2025 - 17:17] Se accede al menú del usuario
+[25/03/2025 - 17:17] Login Válido
+[25/03/2025 - 17:17] Login Válido
+[25/03/2025 - 17:17] Login completada en Chrome			
+[25/03/2025 - 17:17] Login completada en Edge			
+[25/03/2025 - 17:21] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:21] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:21] Navegando en Chrome
+[25/03/2025 - 17:21] Navegando en Edge
+[25/03/2025 - 17:21] Correo ingresado en Chrome
+[25/03/2025 - 17:21] Correo ingresado en Edge
+[25/03/2025 - 17:21] Contraseña ingresada en Chrome
+[25/03/2025 - 17:21] Contraseña ingresada en Edge
+[25/03/2025 - 17:21] Formulario de login enviado en Chrome
+[25/03/2025 - 17:21] Formulario de login enviado en Edge
+[25/03/2025 - 17:21] Error al ejecutar el script: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 17:35] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:35] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:35] Navegando en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:35] Navegando en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:35] Correo ingresado en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:35] Correo ingresado en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:35] Contraseña ingresada en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:35] Contraseña ingresada en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Formulario de login enviado en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Formulario de login enviado en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Login Válido en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Login Válido en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Login completada en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Login completada en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:36] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:36] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:36] Navegando en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Navegando en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Correo ingresado en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Correo ingresado en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Contraseña ingresada en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Contraseña ingresada en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Formulario de login enviado en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Formulario de login enviado en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 17:36] Error al ejecutar el script para usuario usuario@prueba.com: page.waitForTimeout: Target page, context or browser has been closed
+[25/03/2025 - 17:37] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:37] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:37] Navegando en Chrome
+[25/03/2025 - 17:37] Navegando en Edge
+[25/03/2025 - 17:37] Correo ingresado en Chrome
+[25/03/2025 - 17:37] Correo ingresado en Edge
+[25/03/2025 - 17:37] Contraseña ingresada en Chrome
+[25/03/2025 - 17:37] Contraseña ingresada en Edge
+[25/03/2025 - 17:37] Formulario de login enviado en Chrome
+[25/03/2025 - 17:38] Formulario de login enviado en Edge
+[25/03/2025 - 17:38] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:38] Login Válido en Chrome
+[25/03/2025 - 17:38] Login Válido en Edge
+[25/03/2025 - 17:38] Login completada en Chrome
+[25/03/2025 - 17:38] Login completada en Edge
+[25/03/2025 - 17:38] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:38] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:38] Navegando en Chrome
+[25/03/2025 - 17:38] Navegando en Edge
+[25/03/2025 - 17:38] Correo ingresado en Chrome
+[25/03/2025 - 17:38] Correo ingresado en Edge
+[25/03/2025 - 17:38] Contraseña ingresada en Chrome
+[25/03/2025 - 17:38] Contraseña ingresada en Edge
+[25/03/2025 - 17:38] Formulario de login enviado en Chrome
+[25/03/2025 - 17:38] Formulario de login enviado en Edge
+[25/03/2025 - 17:39] Error al ejecutar el script para usuario usuario@prueba.com: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 17:39] Todos los tests completados
+[25/03/2025 - 17:42] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:42] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:42] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:42] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:42] Navegando en Chrome
+[25/03/2025 - 17:42] Navegando en Edge
+[25/03/2025 - 17:42] Correo ingresado en Chrome
+[25/03/2025 - 17:42] Correo ingresado en Edge
+[25/03/2025 - 17:42] Contraseña ingresada en Chrome
+[25/03/2025 - 17:42] Contraseña ingresada en Edge
+[25/03/2025 - 17:42] Formulario de login enviado en Chrome
+[25/03/2025 - 17:42] Formulario de login enviado en Edge
+[25/03/2025 - 17:42] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:42] Login Válido en Chrome
+[25/03/2025 - 17:42] Login Válido en Edge
+[25/03/2025 - 17:42] Login completada en Chrome
+[25/03/2025 - 17:42] Login completada en Edge
+[25/03/2025 - 17:42] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:42] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:42] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:42] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:43] Navegando en Chrome
+[25/03/2025 - 17:43] Navegando en Edge
+[25/03/2025 - 17:43] Correo ingresado en Chrome
+[25/03/2025 - 17:43] Correo ingresado en Edge
+[25/03/2025 - 17:43] Contraseña ingresada en Chrome
+[25/03/2025 - 17:43] Contraseña ingresada en Edge
+[25/03/2025 - 17:43] Formulario de login enviado en Chrome
+[25/03/2025 - 17:43] Formulario de login enviado en Edge
+[25/03/2025 - 17:43] Error al ejecutar el script para usuario usuario@prueba.com: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 17:44] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:45] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:45] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:45] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:45] Navegando en Chrome
+[25/03/2025 - 17:45] Navegando en Edge
+[25/03/2025 - 17:45] Correo ingresado en Chrome
+[25/03/2025 - 17:45] Correo ingresado en Edge
+[25/03/2025 - 17:45] Contraseña ingresada en Chrome
+[25/03/2025 - 17:45] Contraseña ingresada en Edge
+[25/03/2025 - 17:45] Formulario de login enviado en Chrome
+[25/03/2025 - 17:45] Formulario de login enviado en Edge
+[25/03/2025 - 17:45] Error al ejecutar el script para usuario daniell.tec@entelgy.com: chromeSubmitButton is not defined
+[25/03/2025 - 17:45] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:45] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:45] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:45] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:45] Navegando en Chrome
+[25/03/2025 - 17:45] Navegando en Edge
+[25/03/2025 - 17:45] Correo ingresado en Chrome
+[25/03/2025 - 17:45] Correo ingresado en Edge
+[25/03/2025 - 17:45] Contraseña ingresada en Chrome
+[25/03/2025 - 17:45] Contraseña ingresada en Edge
+[25/03/2025 - 17:45] Formulario de login enviado en Chrome
+[25/03/2025 - 17:45] Formulario de login enviado en Edge
+[25/03/2025 - 17:45] Error al ejecutar el script para usuario usuario@prueba.com: chromeSubmitButton is not defined
+[25/03/2025 - 17:45] Todos los tests completados
+[25/03/2025 - 17:49] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:49] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:49] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:49] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:49] Navegando en Chrome
+[25/03/2025 - 17:49] Navegando en Edge
+[25/03/2025 - 17:49] Correo ingresado en Chrome
+[25/03/2025 - 17:49] Correo ingresado en Edge
+[25/03/2025 - 17:49] Contraseña ingresada en Chrome
+[25/03/2025 - 17:49] Contraseña ingresada en Edge
+[25/03/2025 - 17:50] Error al ejecutar el script para usuario daniell.tec@entelgy.com: chromeSubmitButton is not defined
+[25/03/2025 - 17:50] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:50] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:50] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:50] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:50] Navegando en Chrome
+[25/03/2025 - 17:50] Navegando en Edge
+[25/03/2025 - 17:50] Correo ingresado en Chrome
+[25/03/2025 - 17:50] Correo ingresado en Edge
+[25/03/2025 - 17:50] Contraseña ingresada en Chrome
+[25/03/2025 - 17:50] Contraseña ingresada en Edge
+[25/03/2025 - 17:50] Error al ejecutar el script para usuario usuario@prueba.com: chromeSubmitButton is not defined
+[25/03/2025 - 17:50] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:50] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:50] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:50] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:50] Navegando en Chrome
+[25/03/2025 - 17:50] Navegando en Edge
+[25/03/2025 - 17:50] Correo ingresado en Chrome
+[25/03/2025 - 17:50] Correo ingresado en Edge
+[25/03/2025 - 17:50] Contraseña ingresada en Chrome
+[25/03/2025 - 17:50] Contraseña ingresada en Edge
+[25/03/2025 - 17:51] Error al ejecutar el script para usuario daniell.tec@entelgy.com: chromeSubmitButton is not defined
+[25/03/2025 - 17:51] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:51] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:51] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:51] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:51] Navegando en Chrome
+[25/03/2025 - 17:51] Navegando en Edge
+[25/03/2025 - 17:51] Correo ingresado en Chrome
+[25/03/2025 - 17:51] Correo ingresado en Edge
+[25/03/2025 - 17:51] Contraseña ingresada en Chrome
+[25/03/2025 - 17:51] Contraseña ingresada en Edge
+[25/03/2025 - 17:51] Error al ejecutar el script para usuario usuario@prueba.com: chromeSubmitButton is not defined
+[25/03/2025 - 17:51] Todos los tests completados
+[25/03/2025 - 17:56] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:56] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:56] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:56] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:56] Error al ejecutar el script para usuario path: unsupported mime type "null"
+[25/03/2025 - 17:56] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:56] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:56] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:56] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:56] Error al ejecutar el script para usuario path: unsupported mime type "null"
+[25/03/2025 - 17:56] Todos los tests completados
+[25/03/2025 - 17:57] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:57] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:57] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:57] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:57] Navegando en Chrome
+[25/03/2025 - 17:57] Navegando en Edge
+[25/03/2025 - 17:57] Correo ingresado en Chrome
+[25/03/2025 - 17:57] Correo ingresado en Edge
+[25/03/2025 - 17:57] Contraseña ingresada en Chrome
+[25/03/2025 - 17:57] Contraseña ingresada en Edge
+[25/03/2025 - 17:57] El botón de submit está deshabilitado en Chrome
+[25/03/2025 - 17:57] El botón de submit está deshabilitado en Edge
+[25/03/2025 - 17:57] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 17:57] Login Válido en Chrome
+[25/03/2025 - 17:57] Login Válido en Edge
+[25/03/2025 - 17:57] Error al ejecutar el script para usuario daniell.tec@entelgy.com: page.waitForTimeout: Target page, context or browser has been closed
+[25/03/2025 - 17:58] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:58] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:58] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:58] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:58] Error al ejecutar el script para usuario daniell.tec@entelgy.com: path: unsupported mime type "null"
+[25/03/2025 - 17:58] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:58] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:58] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:58] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:58] Error al ejecutar el script para usuario usuario@prueba.com: path: unsupported mime type "null"
+[25/03/2025 - 17:58] Todos los tests completados
+[25/03/2025 - 17:59] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:59] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:59] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:59] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:59] Error al ejecutar el script para usuario daniell.tec@entelgy.com: path: unsupported mime type "null"
+[25/03/2025 - 17:59] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:59] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 17:59] Botón de sesión clickeado en Chrome
+[25/03/2025 - 17:59] Botón de sesión clickeado en Edge
+[25/03/2025 - 17:59] Error al ejecutar el script para usuario usuario@prueba.com: path: unsupported mime type "null"
+[25/03/2025 - 17:59] Todos los tests completados
+[25/03/2025 - 18:00] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:00] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:00] Botón de sesión clickeado en Chrome
+[25/03/2025 - 18:00] Botón de sesión clickeado en Edge
+[25/03/2025 - 18:00] Error al ejecutar el script para usuario daniell.tec@entelgy.com: path: unsupported mime type "null"
+[25/03/2025 - 18:00] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:00] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:00] Botón de sesión clickeado en Chrome
+[25/03/2025 - 18:00] Botón de sesión clickeado en Edge
+[25/03/2025 - 18:00] Error al ejecutar el script para usuario usuario@prueba.com: path: unsupported mime type "null"
+[25/03/2025 - 18:00] Todos los tests completados
+[25/03/2025 - 18:02] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:02] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:02] Error al ejecutar el script path: unsupported mime type "null"
+[25/03/2025 - 18:02] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:02] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:03] Error al ejecutar el script path: unsupported mime type "null"
+[25/03/2025 - 18:03] Todos los tests completados
+[25/03/2025 - 18:03] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:03] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:04] Navegando en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Navegando en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Correo ingresado en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Correo ingresado en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Contraseña ingresada en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Contraseña ingresada en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Formulario de login enviado en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Formulario de login enviado en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Login Válido en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Login Válido en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Login completada en Chrome para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Login completada en Edge para usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:04] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:04] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:04] Navegando en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Navegando en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Correo ingresado en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Correo ingresado en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Contraseña ingresada en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Contraseña ingresada en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Formulario de login enviado en Chrome para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Formulario de login enviado en Edge para usuario: usuario@prueba.com
+[25/03/2025 - 18:04] Error al ejecutar el script para usuario usuario@prueba.com: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 18:04] Todos los tests completados
+[25/03/2025 - 18:05] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:05] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:05] Navegando en Chrome
+[25/03/2025 - 18:05] Navegando en Edge
+[25/03/2025 - 18:05] Correo ingresado en Chrome
+[25/03/2025 - 18:05] Correo ingresado en Edge
+[25/03/2025 - 18:05] Contraseña ingresada en Chrome
+[25/03/2025 - 18:05] Contraseña ingresada en Edge
+[25/03/2025 - 18:05] Formulario de login enviado en Chrome
+[25/03/2025 - 18:05] Formulario de login enviado en Edge
+[25/03/2025 - 18:05] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:05] Login Válido en Chrome
+[25/03/2025 - 18:05] Login Válido en Edge
+[25/03/2025 - 18:05] Login completada en Chrome
+[25/03/2025 - 18:05] Login completada en Edge
+[25/03/2025 - 18:05] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:05] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:06] Navegando en Chrome
+[25/03/2025 - 18:06] Navegando en Edge
+[25/03/2025 - 18:06] Correo ingresado en Chrome
+[25/03/2025 - 18:06] Correo ingresado en Edge
+[25/03/2025 - 18:06] Contraseña ingresada en Chrome
+[25/03/2025 - 18:06] Contraseña ingresada en Edge
+[25/03/2025 - 18:06] Formulario de login enviado en Chrome
+[25/03/2025 - 18:06] Formulario de login enviado en Edge
+[25/03/2025 - 18:06] Error al ejecutar el script page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 18:06] Todos los tests completados
+[25/03/2025 - 18:11] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:11] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:11] Navegando en Chrome
+[25/03/2025 - 18:11] Navegando en Edge
+[25/03/2025 - 18:11] Correo ingresado en Chrome
+[25/03/2025 - 18:11] Correo ingresado en Edge
+[25/03/2025 - 18:11] Contraseña ingresada en Chrome
+[25/03/2025 - 18:11] Contraseña ingresada en Edge
+[25/03/2025 - 18:11] Formulario de login enviado en Chrome
+[25/03/2025 - 18:11] Formulario de login enviado en Edge
+[25/03/2025 - 18:12] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:12] Login Válido en Chrome
+[25/03/2025 - 18:12] Login Válido en Edge
+[25/03/2025 - 18:12] Error al ejecutar el script page.waitForTimeout: Target page, context or browser has been closed
+[25/03/2025 - 18:13] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:13] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:13] Error al ejecutar el script path: unsupported mime type "null"
+[25/03/2025 - 18:13] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:13] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:13] Error al ejecutar el script path: unsupported mime type "null"
+[25/03/2025 - 18:13] Todos los tests completados
+[25/03/2025 - 18:14] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:14] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:14] Navegando en Chrome
+[25/03/2025 - 18:14] Navegando en Edge
+[25/03/2025 - 18:14] Correo ingresado en Chrome
+[25/03/2025 - 18:14] Correo ingresado en Edge
+[25/03/2025 - 18:14] Contraseña ingresada en Chrome
+[25/03/2025 - 18:14] Contraseña ingresada en Edge
+[25/03/2025 - 18:14] Formulario de login enviado en Chrome
+[25/03/2025 - 18:14] Formulario de login enviado en Edge
+[25/03/2025 - 18:14] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:14] Login Válido en Chrome
+[25/03/2025 - 18:14] Login Válido en Edge
+[25/03/2025 - 18:14] Login completada en Chrome
+[25/03/2025 - 18:14] Login completada en Edge
+[25/03/2025 - 18:14] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:14] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:15] Navegando en Chrome
+[25/03/2025 - 18:15] Navegando en Edge
+[25/03/2025 - 18:15] Correo ingresado en Chrome
+[25/03/2025 - 18:15] Correo ingresado en Edge
+[25/03/2025 - 18:15] Contraseña ingresada en Chrome
+[25/03/2025 - 18:15] Contraseña ingresada en Edge
+[25/03/2025 - 18:15] Formulario de login enviado en Chrome
+[25/03/2025 - 18:15] Formulario de login enviado en Edge
+[25/03/2025 - 18:15] Error al ejecutar el script page.waitForTimeout: Target page, context or browser has been closed
+[25/03/2025 - 18:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:16] Error al ejecutar el script path: unsupported mime type "null"
+[25/03/2025 - 18:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:16] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:16] Error al ejecutar el script path: unsupported mime type "null"
+[25/03/2025 - 18:16] Todos los tests completados
+[25/03/2025 - 18:17] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:17] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:17] Navegando en Chrome
+[25/03/2025 - 18:17] Navegando en Edge
+[25/03/2025 - 18:17] Correo ingresado en Chrome
+[25/03/2025 - 18:17] Correo ingresado en Edge
+[25/03/2025 - 18:17] Contraseña ingresada en Chrome
+[25/03/2025 - 18:17] Contraseña ingresada en Edge
+[25/03/2025 - 18:17] Formulario de login enviado en Chrome
+[25/03/2025 - 18:17] Formulario de login enviado en Edge
+[25/03/2025 - 18:17] Se accede al menú del usuario: daniell.tec@entelgy.com
+[25/03/2025 - 18:17] Login Válido en Chrome
+[25/03/2025 - 18:17] Login Válido en Edge
+[25/03/2025 - 18:17] Login completada en Chrome
+[25/03/2025 - 18:17] Login completada en Edge
+[25/03/2025 - 18:17] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:17] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:17] Navegando en Chrome
+[25/03/2025 - 18:17] Navegando en Edge
+[25/03/2025 - 18:17] Correo ingresado en Chrome
+[25/03/2025 - 18:17] Correo ingresado en Edge
+[25/03/2025 - 18:17] Contraseña ingresada en Chrome
+[25/03/2025 - 18:17] Contraseña ingresada en Edge
+[25/03/2025 - 18:17] Formulario de login enviado en Chrome
+[25/03/2025 - 18:17] Formulario de login enviado en Edge
+[25/03/2025 - 18:18] Error al ejecutar el script page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 18:18] Todos los tests completados
+[25/03/2025 - 18:20] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:20] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:21] Error para usuario daniell.tec@entelgy.com: page.textContent: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > div.main__inner-wrapper > div.color-bg > div:nth-child(3) > div > div:nth-child(1) > div > div.micuenta-pral__title > div.micuenta-pral__title__box > div.micuenta-pral__title__box__title > div')[22m
+
+[25/03/2025 - 18:21] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:21] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:22] Error para usuario daniell.tecq@entelgy.com: page.textContent: Timeout 30000ms exceeded.
+Call log:
+[2m  - waiting for locator('body > main > div.main__inner-wrapper > div.color-bg > div:nth-child(3) > div > div:nth-child(1) > div > div.micuenta-pral__title > div.micuenta-pral__title__box > div.micuenta-pral__title__box__title > div')[22m
+
+[25/03/2025 - 18:22] Todos los tests completados
+[25/03/2025 - 18:32] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:32] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:32] Navegando en Chrome
+[25/03/2025 - 18:32] Navegando en Edge
+[25/03/2025 - 18:32] Correo ingresado en Chrome
+[25/03/2025 - 18:32] Correo ingresado en Edge
+[25/03/2025 - 18:32] Contraseña ingresada en Chrome
+[25/03/2025 - 18:32] Contraseña ingresada en Edge
+[25/03/2025 - 18:32] Formulario de login enviado en Chrome
+[25/03/2025 - 18:32] Formulario de login enviado en Edge
+[25/03/2025 - 18:33] Se accede al menú del usuario
+[25/03/2025 - 18:33] Login Válido
+[25/03/2025 - 18:33] Login Válido
+[25/03/2025 - 18:33] Login completada en Chrome			
+[25/03/2025 - 18:33] Login completada en Edge			
+[25/03/2025 - 18:33] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:33] Página cargada con éxito: https://clubcliente.aena.es/AenaClub/es/
+[25/03/2025 - 18:33] Navegando en Chrome
+[25/03/2025 - 18:33] Navegando en Edge
+[25/03/2025 - 18:33] Correo ingresado en Chrome
+[25/03/2025 - 18:33] Correo ingresado en Edge
+[25/03/2025 - 18:33] Contraseña ingresada en Chrome
+[25/03/2025 - 18:33] Contraseña ingresada en Edge
+[25/03/2025 - 18:33] Formulario de login enviado en Chrome
+[25/03/2025 - 18:33] Formulario de login enviado en Edge
+[25/03/2025 - 18:33] Error al ejecutar el script: page.waitForSelector: Target page, context or browser has been closed
+Call log:
+[2m  - waiting for locator('body > main > header > div > div > div.header__top__nav > div > div:nth-child(2) > a') to be visible[22m
+

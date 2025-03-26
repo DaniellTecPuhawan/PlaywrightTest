@@ -1,0 +1,29 @@
+[25/03/2025 - 16:43] Página cargada con éxito: https://shoptofly.aena.es/shop/es/
+[25/03/2025 - 16:44] Página cargada con éxito: https://shoptofly.aena.es/shop/es/
+[25/03/2025 - 16:44] Navegando en Chrome
+[25/03/2025 - 16:44] Navegando en Edge
+[25/03/2025 - 16:44] Correo ingresado en Chrome
+[25/03/2025 - 16:44] Correo ingresado en Edge
+[25/03/2025 - 16:44] Contraseña ingresada en Chrome
+[25/03/2025 - 16:44] Contraseña ingresada en Edge
+[25/03/2025 - 16:44] Formulario de login enviado en Chrome
+[25/03/2025 - 16:44] Formulario de login enviado en Edge
+[25/03/2025 - 16:44] Error al ejecutar el script: page.waitForSelector: Timeout 15000ms exceeded.
+Call log:
+[2m  - waiting for locator('#topNavigation > div.header-links > div > ul > li:nth-child(2) > a') to be visible[22m
+
+[25/03/2025 - 16:46] Página cargada con éxito: https://shoptofly.aena.es/shop/es/
+[25/03/2025 - 16:46] Página cargada con éxito: https://shoptofly.aena.es/shop/es/
+[25/03/2025 - 16:46] Navegando en Chrome
+[25/03/2025 - 16:46] Navegando en Edge
+[25/03/2025 - 16:46] Correo ingresado en Chrome
+[25/03/2025 - 16:46] Correo ingresado en Edge
+[25/03/2025 - 16:46] Contraseña ingresada en Chrome
+[25/03/2025 - 16:46] Contraseña ingresada en Edge
+[25/03/2025 - 16:46] Formulario de login enviado en Chrome
+[25/03/2025 - 16:46] Formulario de login enviado en Edge
+[25/03/2025 - 16:46] Se accede al menú del usuario
+[25/03/2025 - 16:46] Login Válido
+[25/03/2025 - 16:46] Login Válido
+[25/03/2025 - 16:46] Login completada en Chrome			
+[25/03/2025 - 16:46] Login completada en Edge			
